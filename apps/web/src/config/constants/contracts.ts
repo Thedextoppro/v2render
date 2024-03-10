@@ -176,6 +176,6 @@ export default {
   burn: {
     56: '',
     97: '',
-    369: '0xAdA0Bfc16c120014458f10BCc14fdcF703A7EEe4'
+    369: '0xE4cf43C8776AdFab70D1B5AdDBE6813477c11870'
   }
 }
